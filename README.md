@@ -1,5 +1,7 @@
 # Intro to Testing with Mocha & Chai
 
+![Build Status](https://travis-ci.org/ga-chicago/testing_testing_123.svg?branch=master)
+
 Intro to testing with Mocha &amp; Chai
 
 ## How do I test?
